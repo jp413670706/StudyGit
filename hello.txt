@@ -1,6 +1,0 @@
-Hello git
-see you again
-use ssh clone reprository
-这个dev添加的内容
-小红添加的内容
-小黑添加
