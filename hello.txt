@@ -1,2 +1,3 @@
 Hello git
 see you again
+use ssh clone reprository
